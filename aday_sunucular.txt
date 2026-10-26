@@ -1,0 +1,11 @@
+# Kendiliğinden bulunamayan (özel adlı) sunucuları buraya ekle; her satıra bir adres.
+# Olağan adlar (tsN.xN.bölge, rog.xN.bölge) zaten otomatik taranıyor.
+alpler.x3.turkey.travian.com
+cw.x2.international.travian.com
+czsk.x1.czsk.travian.com
+eterni.x3.italy.travian.com
+garuda.x3.indonesia.travian.com
+husaria.x3.poland.travian.com
+lusobr.x2.lusobrasileiro.travian.com
+united.x1.balkans.travian.com
+wimpel.x2.germany.travian.com
