@@ -1,0 +1,365 @@
+{
+ "son_tarama": "2026-11-28",
+ "sunucular": {
+  "alpler.x3.turkey.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-01",
+   "son": "2026-11-28"
+  },
+  "cw.x2.international.travian.com": {
+   "hata": 4,
+   "ilk": "2026-10-26",
+   "son": "2026-11-26"
+  },
+  "czsk.x1.czsk.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "husaria.x3.poland.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-31",
+   "son": "2026-11-28"
+  },
+  "lusobr.x2.lusobrasileiro.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x2.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x2.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x2.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x2.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x2.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x3.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x3.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x3.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x3.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "rog.x3.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts1.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts1.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts1.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts1.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-07",
+   "son": "2026-11-28"
+  },
+  "ts10.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts100.x10.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-25",
+   "son": "2026-11-28"
+  },
+  "ts100.x10.asia.travian.com": {
+   "hata": 1,
+   "ilk": "2026-10-28",
+   "son": "2026-11-28"
+  },
+  "ts11.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts11.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts12.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts12.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts2.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-06",
+   "son": "2026-11-28"
+  },
+  "ts2.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts2.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts2.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts20.x2.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts20.x2.international.travian.com": {
+   "hata": 4,
+   "ilk": "2026-10-26",
+   "son": "2026-11-26"
+  },
+  "ts21.x2.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts21.x2.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts21.x2.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-05",
+   "son": "2026-11-28"
+  },
+  "ts3.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts3.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts3.x1.europe.travian.com": {
+   "hata": 1,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts3.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts30.x3.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-15",
+   "son": "2026-11-28"
+  },
+  "ts30.x3.arabics.travian.com": {
+   "hata": 1,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts30.x3.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-18",
+   "son": "2026-11-28"
+  },
+  "ts30.x3.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-30",
+   "son": "2026-11-28"
+  },
+  "ts32.x3.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts33.x3.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts4.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-12",
+   "son": "2026-11-28"
+  },
+  "ts4.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-26",
+   "son": "2026-11-28"
+  },
+  "ts4.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts4.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts5.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts5.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts50.x5.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-08",
+   "son": "2026-11-28"
+  },
+  "ts6.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts6.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts7.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts7.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts7.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts7.x1.europe.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts7.x1.international.travian.com": {
+   "hata": 0,
+   "ilk": "2026-11-19",
+   "son": "2026-11-28"
+  },
+  "ts8.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts8.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts8.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts9.x1.america.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts9.x1.arabics.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "ts9.x1.asia.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "united.x1.balkans.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  },
+  "wimpel.x2.germany.travian.com": {
+   "hata": 0,
+   "ilk": "2026-10-26",
+   "son": "2026-11-28"
+  }
+ }
+}
